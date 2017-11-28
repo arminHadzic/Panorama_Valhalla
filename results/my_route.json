@@ -1,0 +1,187 @@
+{
+  "trip": {
+    "language": "en-US",
+    "summary": {
+      "max_lon": -84.548782,
+      "max_lat": 38.042099,
+      "time": 1163,
+      "length": 8.076,
+      "min_lat": 37.996185,
+      "min_lon": -84.603592
+    },
+    "locations": [
+      {
+        "state": "KY",
+        "type": "break",
+        "city": "Lexington",
+        "lat": 38.042126,
+        "lon": -84.555496
+      },
+      {
+        "state": "KY",
+        "type": "break",
+        "city": "Lexington",
+        "lat": 38.02869,
+        "lon": -84.602348
+      }
+    ],
+    "units": "miles",
+    "legs": [
+      {
+        "shape": "c~{pgArkzg`DhGcG~v@so@hCgDpBuDl@yB^}@z@uDfDiWbFm_@VyBd@yCjL_|@dErFl_@pGhVhCfNl@pXNhf@uErLkBhGyAjKiC`MeEtJgErQmJfNmIxLoJjAgCt@yBd@yBvc@uZbK_IjGeElJeFzP_IzKuD~SsGjsAm_@xGeD|@_@hHuDnHuEbLoIlJoIpGeEzAm@xB?zA?zA\\rFjBzt@b[`Cz@nh@|Tzo@vY|r@rZhl@xWxp@tYlKpG`LpHhHrFrKlJpMxM|c@|h@vb@|i@lK|JvCfCnDjBfDxA~C|@~Cl@tJl@fIm@vDm@xA]hC}@dEiBrFwDjFcF|OsQlFsFzEuE|EuDnHuErFwCjk@c\\nw@ed@|DyB`Dm@dToHtEiC|TmUpRc[zUm_@pQgX|EqG|EuEdEwCbGgErKuD`B]nD_@lOgDrLsEbFiCfIqHdEuDp\\|r@xMvYjFbFfDhC|DhBhHdExChChBvCxB`IlEzJpRn^~CbFfIzL`CbFxB~HpBfNrA|JrArFpBbGrtAxhCzUfc@jxAdkC`|@f`Bx_BnyCrUhb@ln@~eA|OzVhW~]dUdZlT`\\zUr[vXl^b\\ja@rF~H|Tp\\~X~]bUhWnJxL`RlThMdPfHhMjQr[xLzUlKfXnIxWbFdO|IdZrB~H~CxMxLdo@pGva@`Ibf@pGtd@d@fDpL~{@t@dEtEhXtDjVnI~]tE|SlEhMxMp\\`LrPnNnTbLbPzPbQnNhMnOzLhQxLnNxLrQdOpQhNfNtN`MvNzLrQ{LhL_CbG?xB\\hCrAvChCxBrJjKrLlKxGzKpB`GjAtEfDzU|E`]jAlJl@`Hd@bG`CvXhBjVFdYNhMTtOGtEMxBeAfDaBxBmJ~HyHrF_IrFebBfmAgc@p[c`@hXgDfC{AlAML_DfD_@\\oN`Swg@ju@a\\~f@gOfYo]tn@}EnIcFnHs[vYwSpQwSpRs@l@gDtDeKbQuEnIcFnI_ItOyMjVyBdE_DtEuDnHiCrGwC|Iq]flA}DtPoCzJgEjLqGzK_TxWgg@tn@us@z~@_s@|}@aCvC{EnI}E~I_D|IqBzK}E~q@m@xBcAzAcBjBkA\\qB\\cB]_D{AoIqGqnGavEi_BkjAyfDqbCwSiMgOqHe~@{_@geBgw@mZyMag@kUst@s\\ow@o]evB{~@nRbo@xBjLlAxL\\zKLzLk@xVsA|Tu@nI{AlJiB|J_Opp@s[huAuYtmAwHdZcLre@sAnH}@`H]`I]jKGxW{@n|@m@nr@Wha@M~]e@xv@GzKyBz@kB\\mD]aCkAkGsFwCwCiCgDyByB}DiCkFiCuJsFaHqGyGaHqHaHmEuEaCiB",
+        "summary": {
+          "max_lon": -84.548782,
+          "max_lat": 38.042099,
+          "time": 1163,
+          "length": 8.076,
+          "min_lat": 37.996185,
+          "min_lon": -84.603592
+        },
+        "maneuvers": [
+          {
+            "travel_mode": "drive",
+            "begin_shape_index": 0,
+            "length": 0.226,
+            "time": 50,
+            "type": 1,
+            "end_shape_index": 12,
+            "instruction": "Drive southeast on Cross Keys Road.",
+            "verbal_pre_transition_instruction": "Drive southeast on Cross Keys Road for 2 tenths of a mile.",
+            "travel_type": "car",
+            "street_names": [
+              "Cross Keys Road"
+            ]
+          },
+          {
+            "travel_type": "car",
+            "travel_mode": "drive",
+            "verbal_pre_transition_instruction": "Turn right onto Alexandria Drive.",
+            "verbal_transition_alert_instruction": "Turn right onto Alexandria Drive.",
+            "length": 1.825,
+            "instruction": "Turn right onto Alexandria Drive.",
+            "end_shape_index": 105,
+            "type": 10,
+            "time": 217,
+            "verbal_post_transition_instruction": "Continue for 1.8 miles.",
+            "street_names": [
+              "Alexandria Drive"
+            ],
+            "begin_shape_index": 12
+          },
+          {
+            "travel_type": "car",
+            "travel_mode": "drive",
+            "verbal_pre_transition_instruction": "Turn right onto Harrodsburg Road, US 68.",
+            "verbal_transition_alert_instruction": "Turn right onto Harrodsburg Road.",
+            "length": 2.301,
+            "instruction": "Turn right onto Harrodsburg Road/US 68.",
+            "end_shape_index": 180,
+            "type": 10,
+            "time": 202,
+            "verbal_post_transition_instruction": "Continue for 2.3 miles.",
+            "street_names": [
+              "Harrodsburg Road",
+              "US 68"
+            ],
+            "begin_shape_index": 105
+          },
+          {
+            "travel_type": "car",
+            "travel_mode": "drive",
+            "verbal_multi_cue": true,
+            "verbal_pre_transition_instruction": "Turn right onto Old Harrodsburg Road. Then Turn left to stay on Old Harrodsburg Road.",
+            "verbal_transition_alert_instruction": "Turn right onto Old Harrodsburg Road.",
+            "length": 0.027,
+            "instruction": "Turn right onto Old Harrodsburg Road.",
+            "end_shape_index": 182,
+            "type": 10,
+            "time": 5,
+            "verbal_post_transition_instruction": "Continue for 100 feet.",
+            "street_names": [
+              "Old Harrodsburg Road"
+            ],
+            "begin_shape_index": 180
+          },
+          {
+            "travel_type": "car",
+            "travel_mode": "drive",
+            "verbal_pre_transition_instruction": "Turn left to stay on Old Harrodsburg Road.",
+            "verbal_transition_alert_instruction": "Turn left to stay on Old Harrodsburg Road.",
+            "length": 0.201,
+            "instruction": "Turn left to stay on Old Harrodsburg Road.",
+            "end_shape_index": 198,
+            "type": 15,
+            "time": 50,
+            "verbal_post_transition_instruction": "Continue for 2 tenths of a mile.",
+            "street_names": [
+              "Old Harrodsburg Road"
+            ],
+            "begin_shape_index": 182
+          },
+          {
+            "travel_type": "car",
+            "verbal_pre_transition_instruction": "Continue on Bowmans Mill Road for 2.7 miles.",
+            "verbal_transition_alert_instruction": "Continue on Bowmans Mill Road.",
+            "length": 2.658,
+            "instruction": "Continue on Bowmans Mill Road.",
+            "end_shape_index": 273,
+            "type": 8,
+            "time": 518,
+            "street_names": [
+              "Bowmans Mill Road"
+            ],
+            "begin_shape_index": 198,
+            "travel_mode": "drive"
+          },
+          {
+            "travel_type": "car",
+            "travel_mode": "drive",
+            "verbal_pre_transition_instruction": "Turn sharp left onto Parkers Mill Road, KY 19 68.",
+            "verbal_transition_alert_instruction": "Turn sharp left onto Parkers Mill Road.",
+            "length": 0.706,
+            "instruction": "Turn sharp left onto Parkers Mill Road/KY 1968.",
+            "end_shape_index": 299,
+            "type": 14,
+            "time": 88,
+            "verbal_post_transition_instruction": "Continue for 7 tenths of a mile.",
+            "street_names": [
+              "Parkers Mill Road",
+              "KY 1968"
+            ],
+            "begin_shape_index": 273
+          },
+          {
+            "travel_type": "car",
+            "travel_mode": "drive",
+            "verbal_pre_transition_instruction": "Turn right onto Airport Road.",
+            "verbal_transition_alert_instruction": "Turn right onto Airport Road.",
+            "length": 0.133,
+            "instruction": "Turn right onto Airport Road.",
+            "end_shape_index": 315,
+            "type": 10,
+            "time": 33,
+            "verbal_post_transition_instruction": "Continue for 1 tenth of a mile.",
+            "street_names": [
+              "Airport Road"
+            ],
+            "begin_shape_index": 299
+          },
+          {
+            "travel_type": "car",
+            "travel_mode": "drive",
+            "begin_shape_index": 315,
+            "time": 0,
+            "type": 4,
+            "end_shape_index": 315,
+            "instruction": "You have arrived at your destination.",
+            "length": 0,
+            "verbal_transition_alert_instruction": "You will arrive at your destination.",
+            "verbal_pre_transition_instruction": "You have arrived at your destination."
+          }
+        ]
+      }
+    ],
+    "status_message": "Found route between points",
+    "status": 0
+  }
+}
