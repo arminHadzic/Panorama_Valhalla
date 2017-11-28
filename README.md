@@ -1,5 +1,7 @@
 # Panorama_Valhalla
 
+NOTE: autocost.cc was designed for Unix file paths, so change said paths before running on a non-Unix OS.
+
 1. Install valhalla via: https://github.com/valhalla/valhalla
 
 2. Make sure to install the Kentucky tileset via: http://download.geofabrik.de/north-america/us/kentucky-latest.osm.pbf
