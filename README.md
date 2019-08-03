@@ -10,7 +10,7 @@ NOTE: autocost.cc was designed for Unix file paths, so change said paths before 
 
 4. Follow instructions at https://github.com/valhalla/valhalla for initial compile
 
-5. After initial compile, this abreviated compile process can be used:
+5. After initial compile, this abbreviated compile process can be used:
 	make clean
 	./autogen.sh
 	./configure
