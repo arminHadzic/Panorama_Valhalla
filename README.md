@@ -36,3 +36,26 @@ NOTE: autocost.cc was designed for Unix file paths, so change said paths before 
 		c~{pgArkzg`DhGcG~v@so@hCgDpBuDl@yB^}@z@uDfDiWbFm_@VyBd@yCjL_|@dErFl_@pGhVhCfNl@pXNhf@uErLkBhGyAjKiC`MeEtJgErQmJfNmIxLoJjAgCt@yBd@yBvc@uZbK_IjGeElJeFzP_IzKuD~SsGjsAm_@xGeD|@_@hHuDnHuEbLoIlJoIpGeEzAm@xB?zA?zA\\rFjBzt@b[`Cz@nh@|Tzo@vY|r@rZhl@xWxp@tYlKpG`LpHhHrFrKlJpMxM|c@|h@vb@|i@lK|JvCfCnDjBfDxA~C|@~Cl@tJl@fIm@vDm@xA]hC}@dEiBrFwDjFcF|OsQlFsFzEuE|EuDnHuErFwCjk@c\\nw@ed@|DyB`Dm@dToHtEiC|TmUpRc[zUm_@pQgX|EqG|EuEdEwCbGgErKuD`B]nD_@lOgDrLsEbFiCfIqHdEuDp\\|r@xMvYjFbFfDhC|DhBhHdExChChBvCxB`IlEzJpRn^~CbFfIzL`CbFxB~HpBfNrA|JrArFpBbGrtAxhCzUfc@jxAdkC`|@f`Bx_BnyCrUhb@ln@~eA|OzVhW~]dUdZlT`\\zUr[vXl^b\\ja@rF~H|Tp\\~X~]bUhWnJxL`RlThMdPfHhMjQr[xLzUlKfXnIxWbFdO|IdZrB~H~CxMxLdo@pGva@`Ibf@pGtd@d@fDpL~{@t@dEtEhXtDjVnI~]tE|SlEhMxMp\\`LrPnNnTbLbPzPbQnNhMnOzLhQxLnNxLrQdOpQhNfNtN`MvNzLrQ{LhL_CbG?xB\\hCrAvChCxBrJjKrLlKxGzKpB`GjAtEfDzU|E`]jAlJl@`Hd@bG`CvXhBjVFdYNhMTtOGtEMxBeAfDaBxBmJ~HyHrF_IrFebBfmAgc@p[c`@hXgDfC{AlAML_DfD_@\\oN`Swg@ju@a\\~f@gOfYo]tn@}EnIcFnHs[vYwSpQwSpRs@l@gDtDeKbQuEnIcFnI_ItOyMjVyBdE_DtEuDnHiCrGwC|Iq]flA}DtPoCzJgEjLqGzK_TxWgg@tn@us@z~@_s@|}@aCvC{EnI}E~I_D|IqBzK}E~q@m@xBcAzAcBjBkA\\qB\\cB]_D{AoIqGqnGavEi_BkjAyfDqbCwSiMgOqHe~@{_@geBgw@mZyMag@kUst@s\\ow@o]evB{~@nRbo@xBjLlAxL\\zKLzLk@xVsA|Tu@nI{AlJiB|J_Opp@s[huAuYtmAwHdZcLre@sAnH}@`H]`I]jKGxW{@n|@m@nr@Wha@M~]e@xv@GzKyBz@kB\\mD]aCkAkGsFwCwCiCgDyByB}DiCkFiCuJsFaHqGyGaHqHaHmEuEaCiB
 
 9. When finished running Valhalla, terminate the program in the 1st terminal window.
+
+
+# Featured in FARSA:
+
+FARSA: Fully Automated Roadway Safety Assessment
+
+https://arxiv.org/abs/1901.06013
+
+BibTex:
+
+	@article{DBLP:journals/corr/abs-1901-06013,
+	  author    = {Weilian Song and
+		       Scott Workman and
+		       Armin Hadzic and
+		       Xu Zhang and
+		       Eric Green and
+		       Mei Chen and
+		       Reginald R. Souleyrette and
+		       Nathan Jacobs},
+	  title     = {{FARSA:} Fully Automated Roadway Safety Assessment},
+	  journal   = {2018 IEEE Winter Conference on Applications of Computer Vision (WACV)},
+	  year      = {2018},
+	}
